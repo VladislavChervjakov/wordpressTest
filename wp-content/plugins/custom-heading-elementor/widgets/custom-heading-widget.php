@@ -23,12 +23,12 @@ class CustomHeading extends Widget_Base {
 
     public function get_name()
     {
-        return 'header';
+        return 'heading';
     }
 
     public function get_title()
     {
-        return 'Header';
+        return 'Heading';
     }
 
     public function get_icon()

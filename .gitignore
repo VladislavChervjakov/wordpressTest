@@ -15,6 +15,8 @@
 /*
 !.gitignore
 !wp-content/
+
+node_modules/
  
 # Ignore everything in the "wp-content" directory, except the "plugins"
 # and "themes" directories.
